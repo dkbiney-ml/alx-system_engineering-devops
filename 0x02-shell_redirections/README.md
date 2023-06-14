@@ -1,0 +1,1 @@
+For practising shell redirections!
