@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i ^a. $HOME/../etc/ssh/sshd_config
+grep -i ^[[:alpha:]] $HOME/../etc/ssh/sshd_config
