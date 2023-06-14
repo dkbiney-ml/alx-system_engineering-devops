@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $HOME/../etc/passwd | grep -i *root*
+grep -i .root. $HOME/../etc/passwd
